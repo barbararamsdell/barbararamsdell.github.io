@@ -1,5 +1,5 @@
 ---
-title: Research
+title: About
 layout: base
 date: 2025-09-30
 homepage: TRUE

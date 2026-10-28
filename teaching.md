@@ -1,5 +1,5 @@
 ---
-title: Teaching
+title: Writing
 layout: base
 date: 2025-09-30
 homepage: TRUE
